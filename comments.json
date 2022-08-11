@@ -1,0 +1,12 @@
+{
+    "openings": {
+        "one" : "Great job this session {name}, you improved a lot!",
+        "two" : "Good job this session {name}, you were great to teach and a wonderful student!",
+        "three" : "Nice effort this session {name}, you worked really hard!"
+    },
+    "closings" : {
+        "one" : "Thanks for being in my class and have fun next session!",
+        "two" : "It was great having you in my class, hope to see you next session!",
+        "three" : "Good luck and have fun next session!"
+    }
+}
