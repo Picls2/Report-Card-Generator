@@ -8,5 +8,18 @@
         "one" : "Thanks for being in my class and have fun next session!",
         "two" : "It was great having you in my class, hope to see you next session!",
         "three" : "Good luck and have fun next session!"
+    },
+
+    "compliments":{
+        "front crawl" : {
+            "general": "Your front crawl look amazing, your arms move consistently and you continue to kick the whole time.",
+            "arms 1-3" : "Your front crawl arms look great, you make sure to bring arms all the way out of the water and moving them continuously.",
+            "arms 4-9" : "Your front crawl arms look great, you make sure to keep your arms bent and have yur elbow higher than your hand"
+        },
+        "back crawl" : {
+            "general" : "Good job with your back crawl, you make sure to keep your belly up, your legs kicking and your arms are constantly moving.",
+            "arms" : "You're doing amazing with your back crawl arms, having both arms moving all the time as well as keeping them straight and not bent."
+        },
+        "flutter kick" : "Your flutter kick looks great, your legs are straight and moving up and down, as well as having a consistant rythmn"
     }
 }

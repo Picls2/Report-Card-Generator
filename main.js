@@ -1,0 +1,1 @@
+import com from './comments.json';
